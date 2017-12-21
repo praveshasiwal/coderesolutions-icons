@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1899px" height="2000px" viewBox="0 0 1899 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>pravesh-cr</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50.9%" y="-13.1%" width="213.4%" height="121.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="28" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.6   0 0 0 0 0.0431372549   0 0 0 0 0.917647059  0 0 0 0.29724298 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#7210F9" offset="0%"></stop>
+            <stop stop-color="#BB06DD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FA521C" offset="0%"></stop>
+            <stop stop-color="#FC9F1D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="31.189344%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#EB00CC" offset="0%"></stop>
+            <stop stop-color="#EB00CD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="31.189344%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#20A6E8" offset="0%"></stop>
+            <stop stop-color="#7510F9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pravesh-cr" filter="url(#filter-1)" transform="translate(-204.429533, 38.000000)">
+            <g id="Group-4" transform="translate(1024.000000, 976.075735) rotate(180.000000) translate(-1024.000000, -976.075735) translate(0.000000, 0.958878)">
+                <g id="cur2" transform="translate(1240.145863, 1251.408454) rotate(1.000000) translate(-1240.145863, -1251.408454) translate(702.294530, 562.361330)">
+                    <path d="M259.675386,0.627933123 L1074.70232,0.627933123 L1074.70232,692.747068 C1074.70214,1070.66951 694.101736,1377.03615 224.607298,1377.03629 L146.095024,1377.03629 C427.365687,1210.26557 608.896655,946.862141 608.896655,650.468055 C608.896655,396.172429 475.271126,166.161334 259.675386,0.627933123 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+                    <path d="M114.111116,0.627933123 L929.138048,0.627933123 L929.138048,692.747067 C929.137876,1070.66952 548.537435,1377.03618 79.0429701,1377.03629 L0.530754451,1377.03629 C281.801417,1210.26557 463.332385,946.862141 463.332385,650.468055 C463.332385,396.172429 329.706856,166.161334 114.111116,0.627933123 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-3)"></path>
+                </g>
+                <g id="cur1">
+                    <path d="M147.535319,25.196859 L962.562251,25.196859 L962.562251,719.678174 C962.562079,1098.89045 581.96167,1406.30271 112.467232,1406.30285 L33.9549571,1406.30285 C315.22562,1238.96295 496.756587,974.660536 496.756587,677.254865 C496.756587,422.091336 363.131059,191.29522 147.535319,25.196859 Z" id="Combined-Shape-Copy-2" fill="url(#linearGradient-4)" transform="translate(498.258604, 715.749856) rotate(183.000000) translate(-498.258604, -715.749856) "></path>
+                    <path d="M262.776691,31.3766538 L1077.80362,31.3766538 L1077.80362,725.858068 C1077.80338,1105.0703 697.203001,1412.48251 227.708604,1412.48265 L149.196329,1412.48265 C430.466992,1245.14274 611.99796,980.84033 611.99796,683.43466 C611.99796,428.271131 478.372431,197.475015 262.776691,31.3766538 Z" id="Combined-Shape-Copy-3" fill="url(#linearGradient-5)" transform="translate(613.499976, 721.929651) rotate(183.000000) translate(-613.499976, -721.929651) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
